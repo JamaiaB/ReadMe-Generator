@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 inquirer.
-    prompt(
+    prompt([
         {
             type: 'input',
             message: 'What is the name of your project?',
@@ -18,4 +18,9 @@ inquirer.
             messsage: 'Installation requirements?',
             name: 'installation'
         },
-    )
+        {
+            type: 'input',
+            message: 'How will your project be used?',
+            name: 'usage'
+        },
+    ]);
