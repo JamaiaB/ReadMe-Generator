@@ -53,14 +53,4 @@ function init() {
 
 // Function call to initialize app
 init();
-
-
-
-    // .then((answers) => {
-    //     const readmePageContent = generateReadMe(answers);
-        
-    //     fs.writeFile('readme.md', htmlPageContent, (err) =>
-    //     err ? console.log(err) : console.log('Successfully created index.html!')
-    //   );    
-    // });
     
