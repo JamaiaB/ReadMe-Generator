@@ -34,6 +34,9 @@ ${renderLicenseBadge(data.license)}
 - [Description](#description) 
 - [Installation](#installation) 
 - [Usage](#usage) 
+- [Questions](#questions)
+- [Contributors](#contributors)
+- [Tests](#tests)
 ${renderLicenseLink(data.license)}
 
 ## Description
@@ -44,6 +47,17 @@ ${data.installation}
 
 ## Usage
 ${data.usage}
+
+## Questions
+${data.questions}
+
+## Contributors
+
+
+
+## Tests
+
+
 
 
 ${renderLicenseSection(data.license)}

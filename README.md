@@ -1,18 +1,28 @@
-# ReadMe Generator
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# jamaia
+[![License](https://img.shields.io/badge/License-APACHE-blue.svg)](https://opensource.org/licenses/APACHE)
 - [Description](#description) 
 - [Installation](#installation) 
 - [Usage](#usage) 
+- [Questions](#questions)
+- [Contributors](#contributors)
+- [Tests](#tests)
 - [License](#license)
 
 ## Description
-This project allows developers to generate their own readme's.
+jamaia
 
 ## Installation
-github
+jamaia
 
 ## Usage
-Other developers will be able to use my code to generate theor own readme's.
+jamaia
+
+## Questions
+jamaia
+
+## Contributors
+
+## Tests
 
 
 ## License
